@@ -8,9 +8,6 @@ Adobe After Effects Timeline Adjuster CEP Extension
 - Fast workflow
 - Lightweight CEP extension
 
-## 📸 Preview
-_Add screenshots or GIFs here_
-
 ## 👨‍💻 Created By
 **Navaneeth Raj**
 
