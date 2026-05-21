@@ -1,17 +1,25 @@
-# ae-timeline-extension
+# AE Timeline Extension
+
 Adobe After Effects Timeline Adjuster CEP Extension
 
-# Features
--Timeline controls
--Easy UI
--Fast Workflow
+## ✨ Features
+- Timeline controls
+- Easy-to-use UI
+- Fast workflow
+- Lightweight CEP extension
 
-#CRETED BY
-NAVANEETH RAJ
+## 📸 Preview
+_Add screenshots or GIFs here_
 
+## 👨‍💻 Created By
+**Navaneeth Raj**
 
-#step to install
- 1)download the zip file
- 2)unzip the folder 
- 3)copy the the file named ae-timeline-extension-main
- 4)paste it in. C:\Program Files (x86)\Common Files\Adobe\CEP\extensions
+## 📦 Installation
+
+1. Download the ZIP file from this repository.
+2. Extract the ZIP file.
+3. Copy the folder named `ae-timeline-extension-main`.
+4. Paste it into:
+
+```text
+C:\Program Files (x86)\Common Files\Adobe\CEP\extensions
