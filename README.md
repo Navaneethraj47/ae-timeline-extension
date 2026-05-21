@@ -1,7 +1,7 @@
 # ae-timeline-extension
 Adobe After Effects Timeline Adjuster CEP Extension
 
-#Features
+# Features
 -Timeline controls
 -Easy UI
 -Fast Workflow
